@@ -1,5 +1,5 @@
 {
-  "projectId": "classroom",
+  "projectId": "hfcc",
   "ignore": [
     "**/node_modules/**",
     "**/specs/**",
