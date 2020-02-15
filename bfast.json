@@ -1,8 +1,1 @@
-{
-  "projectId": "hfcc",
-  "ignore": [
-    "**/node_modules/**",
-    "**/specs/**",
-    "**/*.specs.js"
-  ]
-}
+{"projectId":"z-helb","ignore":["**/node_modules/**","**/specs/**","**/*.specs.js"]}
